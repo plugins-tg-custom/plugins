@@ -1,24 +1,5 @@
 {
   "version": 1,
-  "updatedAt": 1785522967959,
-  "plugins": [
-    {
-      "id": "first-real-plugin",
-      "name": "Мой первый реальный плагин",
-      "version": "1.0.0",
-      "description": "Плеер с музыкой",
-      "author": "Автор Клиента(",
-      "permissions": [
-        "ui",
-        "storage",
-        "telegram.read",
-        "telegram.send",
-        "telegram.account"
-      ],
-      "path": "plugins/first-real-plugin.tgplugin.json",
-      "updatedAt": 1785522967959,
-      "rating": 5,
-      "downloads": 0
-    }
-  ]
+  "updatedAt": 1785526539233,
+  "plugins": []
 }
